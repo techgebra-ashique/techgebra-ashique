@@ -20,11 +20,12 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+- 🚀 Learning Backend-Development
+  - Exploring the ins and outs of python  for dynamic back-end experiences.
+  - Exploring backend technique and concepts making scalablr and robust systems.
+  - Building server-side applications with fastapi, a powerful Python web framework.
   - Building server-side applications with Django, a powerful Python web framework.
+  - Exploring the frappe framework and learning the erpnext and other apps .
   - Diving into PostgreSQL for efficient and scalable database management.
 
  ## 🏆 Achievements
