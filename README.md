@@ -1,13 +1,13 @@
 # Hi, I'm Ashique! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate Backend-Developer working at Techgebra, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![techgebra-ashique's Stats](https://github-readme-stats.vercel.app/api?username=techgebra-ashique&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Uttopia.
-- 📝
+- 🔭 I'm currently working as Software Developer at Techgebra LLP.
+- 📝 
 - 🌐 
 - ✍️ 
 
